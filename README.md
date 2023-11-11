@@ -11,4 +11,4 @@ You can try to use this code on other microcontrollers, we will add more in futu
 You are more than welcome to make a pull request!
 
 ## How to setup
-Firstly you need a api account on htxen.dk, and it need to be in accecs level 5 ore heigher
+First, you must have an api account on htxen.dk, and it must be in accecs level 5 or higher!!!
