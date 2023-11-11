@@ -33,5 +33,5 @@ We would appreciate your help, if it is something that interests you!!
 
 
 # Documentation
-Documentation of our api can be found at docs.htxen.dk
+Documentation of our api can be found at [docs.htxen.dk](https://docs.htxen.dk)
 There you can find all functions on the api
