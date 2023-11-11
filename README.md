@@ -29,3 +29,9 @@ You can also message us on discord, or other students, just remember this is a p
 ### Found a bug? 
 Open an issue on github or fix it and make a pull request!
 We would appreciate your help, if it is something that interests you!!
+
+
+
+# Documentation
+Documentation of our api can be found at docs.htxen.dk
+There you can find all functions on the api
