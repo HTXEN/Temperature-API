@@ -5,8 +5,7 @@ all students at our school have access to the data via our api.
 You can check out the function of all APIs at docs.htxen.dk
 
 ## What do i need?
-This code is made for DHT-11!
-Right now we only made code for the esp8266. 
+Right now we only made code for the esp8266 and the DHT-11. 
 You can try to use this code on other microcontrollers, we will add more in future.
 You are more than welcome to make a pull request!
 
